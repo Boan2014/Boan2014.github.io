@@ -1,29 +1,29 @@
 # Basic site info
-title:              "heiswayi nrird •••"
-description:        "Life Experience, Technology & Research"
-keywords:           "heiswayi nrird, personal blog, software engineer, life experience, technology and research"
-logo_text:          "Heiswayi Nrird"
+title:              "Yuhao Chen •••"
+description:        "idears, Technology and Researches"
+keywords:           
+logo_text:          "Yuhao Chen"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
-url:                https://heiswayi.nrird.com # main url
+url:                https://boan2014.github.io/ # main url
 baseurl:            null # for gh-pages
-enforce_ssl:        heiswayi.nrird.com
+enforce_ssl:        
 
 # Site author info
 author:
-  name:             "Heiswayi Nrird"
-  email:            hnrird@gmail.com
-  github_username:  heiswayi
-  twitter_username: HeiswayiNrird
-  facebook_url:     https://www.facebook.com/heiswayi.nrird
+  name:             "Yuhao Chen"
+  email:            boan11235@gmail.com
+  github_username:  boan2014
+  twitter_username: 
+  facebook_url:     
 
 # Disqus comment settings
 disqus_enabled:     false
-disqus_shortname:   hnbloggithub
+disqus_shortname:   
 
 # GA
 google_analytics_code: UA-58296043-7
