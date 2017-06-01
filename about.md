@@ -26,3 +26,8 @@ Year | Honors and Awards
 2015 | Tokyo Denki University Benefactors’ Scholarships for International Students
 
 ---
+
+#### Languages
+* Chinese(Native)
+* Japanese(Writing and Speaking)
+* English(Writing and Speaking)
