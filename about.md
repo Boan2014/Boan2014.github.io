@@ -7,7 +7,7 @@ keywords: about page, about me
 
 Hello.
 
-I am a senior year student of Information and Communication Engineering at Tokyo Denki University, Tokyo. In free time, I love computer, Internet and AI ― some of my other works can be found on [GitHub](https://github.com/boan2014).
+I am a senior year student of Information and Communication Engineering at Tokyo Denki University, Tokyo. I love computer, Internet and AI ― some of my other works can be found on [GitHub](https://github.com/boan2014).
 
 For contact, you may write an email to me at **boan2014(at)gmail.com**.
 
