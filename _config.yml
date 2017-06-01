@@ -1,12 +1,12 @@
 # Basic site info
 title:              "Yuhao Chen •••"
-description:        "idears, Technology and Researches"
+description:        "Idears, Technology and Researches"
 keywords:           
 logo_text:          "Yuhao Chen"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"
-cover:              "/assets/logo.png" # site image cover
+cover:              # site image cover
 
 # Site URL settings
 url:                https://boan2014.github.io/ # main url
@@ -18,15 +18,15 @@ author:
   name:             "Yuhao Chen"
   email:            boan11235@gmail.com
   github_username:  boan2014
-  twitter_username: 
-  facebook_url:     
+  twitter_username: boan2014
+  facebook_url:     https://www.facebook.com/boan2014  
 
 # Disqus comment settings
 disqus_enabled:     false
 disqus_shortname:   
 
 # GA
-google_analytics_code: UA-58296043-7
+google_analytics_code: 
 
 # Build settings
 source:             ./
