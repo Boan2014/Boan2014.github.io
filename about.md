@@ -13,7 +13,7 @@ For contact, you may write an email to me at **boan2014(at)gmail.com**.
 
 ---
 
-#### Research
+#### Research Interests
 
 My scientific research focusses upon Deep Learning, Recommendation System, and Data Mining. 
 
