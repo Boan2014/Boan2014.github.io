@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Test My Blog
 description: test my blog
 keywords: 
 tags: 
