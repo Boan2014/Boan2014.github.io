@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Research in Recommender Systems 
-description: This post collected some reccent research in Recommender Systems specially associating with Deep Learning
+title: Researches in Recommender Systems 
+description: some recent researches in Recommender Systems
 keywords: recommender system, Deep Learning, paper
 tags: [RecommenderSystem, DeepLearning]
 comments: true
 ---
+
+This post recorded some recent researches in Recommender Systems specially associating with Deep Learning which were helpful for my own research.
 
 1. Deep Neural Networks for YouTube Recommendations(RecSys 2016)
 2. AutoRec: Autoencoders Meet Collaborative Filtering(WWW 2015)
@@ -35,3 +37,5 @@ comments: true
 25. Hybrid Collaborative Filtering with Neural Networks(HAL 2016)
 26. Collaborative Filtering with Stacked Denoising AutoEncoders and Sparse Inputs(NIPS 2015)
 27. A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems(WWW 2015)
+28. Dynamic Intention-Aware Recommendation System(ACM 2017)
+29. node2vec: Scalable Feature Learning for Networks(KDD 2016)
