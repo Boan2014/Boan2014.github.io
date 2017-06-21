@@ -11,7 +11,7 @@ This is a summary on video series [Essence of calculus] which made by youtuber 3
 
 ### Chapter 1
 
-> The art of doing mathematics is finding that special case that contains all the germs of generality.  --David Hilbert              
+> The art of doing mathematics is finding that special case that contains all the germs of generality.  							--David Hilbert              
 
 Math has tendency to reward you when you respect its symmetries.
 
@@ -20,3 +20,23 @@ The reason we care about the area under graph is not  just for asking hard geome
 When you come across a genuinely hard question in math, A good policy is not try too hard to get the answer directly but to play around with the idea with no particular goal in mind.
 
 ![Chapter1.1](http://boan2014.github.io/images/Calculus/Chapter1.1.png)
+
+### Chapter 2
+
+> So far as the theories of mathematics are about reality, they are not certain; So far as they are certain, they are not about reality.																--Albert Einstein
+
+![Chapter2.1](http://boan2014.github.io/images/Calculus/Chapter2.1.png)
+
+dt is not “infinitely small”
+dt is not 0
+dt is always a finitely small, nonzero value, it’s just approaching 0 is all.
+
+derivative is not a instantaneous rate of change but best constant approximation around a point.
+
+### Chapter
+
+> You know, for a mathematician, he did not have enough imagination. But he has become a poet and now he is fine.																						--David Hilbert
+
+![Chapter3.1](http://boan2014.github.io/images/Calculus/Chapter3.1.png)
+
+
