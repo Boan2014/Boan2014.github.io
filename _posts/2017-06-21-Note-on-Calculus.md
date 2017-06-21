@@ -9,9 +9,10 @@ comments: true
 
 This is a summary on video series [Essence of calculus] which made by youtuber 3blue1brown. 「Essence of calculus」are series videoes in order to provide some intutive of calculus.
 
-###Chapter 1
+### Chapter 1
 
-> The art of doing mathematics is finding that special case that contains all the germs of generality. --David Hilbert
+> The art of doing mathematics is finding that special case that contains all the germs of generality.  
+                                                                                                       --David Hilbert
 
 Math has tendency to reward you when you respect its symmetries.
 
