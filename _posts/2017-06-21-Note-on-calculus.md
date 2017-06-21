@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Note on 「Essence of calculus」
+title: Note on [Essence of calculus]
 description: A note on 3blue1brown's video [Essence of calculus]
 keywords: calculus, 3blue1brow, Essence
 tags: [Calculus, Math]
@@ -18,3 +18,5 @@ Math has tendency to reward you when you respect its symmetries.
 The reason we care about the area under graph is not  just for asking hard geometry. It because many practical problem that can be approximated by adding up a large number of small things and can be reframed as a question about an area under a certain graph.
 
 When you come across a genuinely hard question in math, A good policy is not try too hard to get the answer directly but to play around with the idea with no particular goal in mind.
+
+![Chapter1.1](http://octodex.github.com/images/Essence_of_calculus/Chapter1.1.png)
