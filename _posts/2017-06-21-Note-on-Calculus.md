@@ -19,4 +19,4 @@ The reason we care about the area under graph is not  just for asking hard geome
 
 When you come across a genuinely hard question in math, A good policy is not try too hard to get the answer directly but to play around with the idea with no particular goal in mind.
 
-![Chapter1.1](http://boan2014.github.com/images/Essence_of_Calculus/Chapter1.1.png)
+![Chapter1.1](http://boan2014.github.io/images/Calculus/Chapter1.1.png)
