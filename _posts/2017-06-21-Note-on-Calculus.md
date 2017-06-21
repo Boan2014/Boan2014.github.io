@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Note on [Essence of calculus]
-description: A note on 3blue1brown's video [Essence of calculus]
-keywords: calculus, 3blue1brow, Essence
+title: Note on [Essence of Calculus]
+description: A note on 3blue1brown's video [Essence of Calculus]
+keywords: Calculus, 3blue1brow, Essence
 tags: [Calculus, Math]
 comments: true
 ---
@@ -19,4 +19,4 @@ The reason we care about the area under graph is not  just for asking hard geome
 
 When you come across a genuinely hard question in math, A good policy is not try too hard to get the answer directly but to play around with the idea with no particular goal in mind.
 
-![Chapter1.1](http://octodex.github.com/images/Essence_of_calculus/Chapter1.1.png)
+![Chapter1.1](http://octodex.github.com/images/Essence_of_Calculus/Chapter1.1.png)
