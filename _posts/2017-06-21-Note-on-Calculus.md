@@ -51,13 +51,13 @@ A more exact understanding of the derivative requires looking at what the functi
 
  If you are dealing with a product of two things, It is helpful to try to understand it as some form of area.
 
- ### Chapter 5
+### Chapter 5
 
  > Who has not been amazed to learn that the function y = e^x, like a phoenix rising again from its own ashes, is its own derivative?  --Francois le Lionnais
 
  a^t = e^ln(a)t
 
- ### Chapter 6
+### Chapter 6
 
  > Do not ask whether a statement is true until you know what it means.  --Errett Bishop
 
