@@ -21,10 +21,13 @@ For contact, you may write an email to me at **boan2014@gmail.com**.
 - Academy for Global Leadership. Joint education program between Hitotsubashi University and Tokyo Institute of Technology.
 
 ### **Project**
+
 ##### *2018/08/20 - 2018/08/30* **Data Science  Internship in Yahoo Japan Corporation**
 - Natural language processing, statistical data processing, large-scale data mining.
+
 ##### *2019/05 - 2018/08*  **Long Term Internship in Yahoo Japan Corporation**
 -  Knowledge Graph Construction，knowledge Embedding, link prediction, large-scale data mining
+
 ##### *2019/09 - 2018/12*  **Hult Prize Titech**
 - Organized Titech biggest international idea contest which involved 200 students and guests.
 - Judge acquisition, Marketing.
