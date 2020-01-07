@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Note on [Essence of Calculus]
-description: A note on 3blue1brown's video [Essence of Calculus]
-keywords: Calculus, 3blue1brow, Essence
+title: Note on "Essence of Calculus"
+description: A note on 3blue1brown's video "Essence of Calculus"
+keywords: Calculus, 3blue1brow
 tags: [Calculus, Math]
 comments: true
 ---
 
-This is a summary on video series [Essence of calculus] which made by youtuber 3blue1brown. 「Essence of calculus」are series videoes in order to provide some intutive of calculus.
+This is a summary on video series "Essence of calculus" which made by youtuber 3blue1brown. "Essence of calculus" are series videoes in order to provide some intutive of calculus.
 
 ### Chapter 1
 
