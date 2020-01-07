@@ -2,7 +2,7 @@
 layout: post
 title: Researches in Recommender Systems 
 description: some recent researches in Recommender Systems
-keywords: recommender system, Deep Learning, paper
+keywords: recommender system, Deep Learning
 tags: [RecommenderSystem, DeepLearning]
 comments: true
 ---
