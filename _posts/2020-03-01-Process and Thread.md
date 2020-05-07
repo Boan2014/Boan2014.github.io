@@ -3,7 +3,7 @@ layout: post
 title: Process and Thread 
 description: 进程和线程区别的总结
 keywords: 进程,线程,多任务
-tags: [CS]
+tags: [CS,Note]
 comments: true
 ---
 说来惭愧，虽然算是计算机科班出身，但对于进程和线程的概念一直没有一个很好的理解。最近终于下定决心整理和总结了一下进程和线程的概念。
